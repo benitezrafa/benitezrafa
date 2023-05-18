@@ -2,7 +2,12 @@
 
 
 - 🔭 I’m currently working on QA Game Localization BR/ES
-- 🌱 I’m currently learning Kotlin
+- 
+- 💻 I’m currently learning HTML
+- 🖼 I’m currently learning CSS
+- 🎫 I’m currently learning JavaScript
+- 📱 I’m currently learning Kotlin
+- 
 - 📧 E-mail: rspbenitez@gmail.com
 - 💬 Ask me about Video Game Industry
 
@@ -26,7 +31,6 @@
   ##
   
   <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafbenitez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rspbenitez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafa-benitez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
