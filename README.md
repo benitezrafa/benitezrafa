@@ -9,7 +9,7 @@
 - 📱 I’m currently learning Kotlin<br>
  
 - 📧 E-mail: rspbenitez@gmail.com
-- 💬 Ask me about Video Game Industry
+- 💻 Linkedin: www.linkedin.com/in/rafa-benitez/
 
 <div align="center">
   <a href="https://github.com/benitezrafa">
