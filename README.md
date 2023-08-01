@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on QA Game Localization BR/ES<br>
+- 📺 I’m currently working on QA Game Localization BR/ES<br>
 
+- 📱 I’m currently learning Kotlin
 - 💻 I’m currently learning HTML
 - 🖼 I’m currently learning CSS
-- 🎫 I’m currently learning JavaScript
-- 📱 I’m currently learning Kotlin<br>
+- 🎫 I’m currently learning JavaScript<br>
+
  
 - 📧 E-mail: rspbenitez@gmail.com
 - 💻 Linkedin: www.linkedin.com/in/rafa-benitez/
