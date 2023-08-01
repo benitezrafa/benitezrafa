@@ -1,3 +1,4 @@
+<br>
 ### Hi there 👋
 <br>
 
@@ -10,6 +11,8 @@
  
 - 📧 E-mail: rspbenitez@gmail.com
 - 💻 Linkedin: www.linkedin.com/in/rafa-benitez/
+
+<br>
 
 <div align="center">
   <a href="https://github.com/benitezrafa">
