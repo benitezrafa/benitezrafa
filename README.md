@@ -2,7 +2,6 @@
    Hi there 👋
 <br>
 
-- 📺 I’m currently working on QA Game Localization BR/ES<br>
 - 📱 I’m currently learning Kotlin
 - 💻 I’m currently learning HTML
 - 🖼 I’m currently learning CSS
