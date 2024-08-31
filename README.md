@@ -22,7 +22,7 @@ In addition to my technical experience, my proactive focus on continuous improve
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="[https://img.icons8.com/?size=100&id=24536&format=png&color=000000](https://img.icons8.com/?size=100&id=35912&format=png&color=000000)" />
+  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://img.icons8.com/?size=100&id=35912&format=png&color=000000" />
   <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Rafa-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -32,7 +32,7 @@ In addition to my technical experience, my proactive focus on continuous improve
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
           
-           
+          https://img.icons8.com/?size=100&id=35912&format=png&color=000000 
           
 </div>
 
