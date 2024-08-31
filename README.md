@@ -2,10 +2,7 @@
    Hi there 👋
 <br>
 
-- 📱 I’m currently learning Kotlin
-- 💻 I’m currently learning HTML
-- 🖼 I’m currently learning CSS
-- 🎫 I’m currently learning JavaScript<br>
+- 💻 I’m currently learning Cypress and Selenium
 
  
 - 📧 E-mail: rspbenitez@gmail.com
