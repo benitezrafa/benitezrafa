@@ -2,6 +2,10 @@
    Hi there 👋
 <br>
 
+During my 11 years of experience in QA within the video game industry at Keywords Studios, I have led teams in executing manual E2E testing, overseeing everything from planning to execution and release in production environments. I have designed and executed test cases for integration and user acceptance testing, implemented regression and smoke testing, and ensured that all game components meet design specifications and end-user expectations. I am familiar with tracking tools like Jira and Trello and have adapted QA processes to enhance efficiency and effectiveness, always maintaining an agile approach.
+
+In addition to my technical experience, my proactive focus on continuous improvement and my ability to work collaboratively with multidisciplinary teams have been crucial to my success in dynamic and demanding environments.
+
 - 💻 I’m currently learning Cypress and Selenium
 
  
