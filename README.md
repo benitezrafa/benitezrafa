@@ -46,12 +46,6 @@
 
 ###
 
-/*
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/benitezrafa/benitezrafa/output/snake.svg" alt="Snake animation" />
-*/
 
 ###
 
