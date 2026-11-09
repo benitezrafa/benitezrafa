@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafa and I'm a QA Specialist from Brazil, based in Spain</h2>
+<h2 align="left">Hi 👋! My name is Rafa and I'm a Ciber Security Engeneer</h2>
 
 ###
 
